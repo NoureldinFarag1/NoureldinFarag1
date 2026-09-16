@@ -46,8 +46,7 @@ Laravel · Multi-brand POS platform · Brand Owner role with snapshot-based data
 
 ### GitHub Stats
 
-![Noureldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoureldinFarag1&show_icons=true&theme=default&hide_title=true&hide=stars,prs)
-
+![Noureldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoureldinFarag1&show_icons=true&theme=default&hide_title=true&hide=stars,prs&count_private=true)
 ---
 
 📫 **noureldinfarag@gmail.com**  
